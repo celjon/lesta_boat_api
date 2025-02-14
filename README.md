@@ -11,6 +11,6 @@ API для симуляции управления вёсельной лодко
 ## 🔧 Установка и запуск  
 ```bash
 git clone https://github.com/celjon/lesta-boat-api
-cd rowing-boat-api
+cd lesta-boat-api
 pip install -r requirements.txt
 pytest tests/
